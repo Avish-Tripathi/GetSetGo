@@ -5,7 +5,7 @@ This is a **Full Stack** responsive website which helps the user to book the tic
 
 The front page of the website contains links for further sections of the webpage.
 
-![image](https://user-images.githubusercontent.com/54525715/134290879-c346853b-d6fe-4e6e-837e-36c8d5621388.png)
+[image](https://user-images.githubusercontent.com/54525715/134290879-c346853b-d6fe-4e6e-837e-36c8d5621388.png)
 
 The about section tells about the taxi company followed by the rates and contact.
 
@@ -35,4 +35,3 @@ This whole project is made by -
 
 [Avish Tripathi](https://github.com/Avish-Tripathi) 
 
-[Animesh Kaushik](https://github.com/anidec)
